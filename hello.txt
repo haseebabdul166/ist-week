@@ -1,0 +1,4 @@
+public class myfirstjavaprogram {
+  public static void main(Strings []args){
+        system.out.printin("Hello world");
+}
